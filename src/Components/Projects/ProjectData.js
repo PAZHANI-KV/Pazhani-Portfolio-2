@@ -7,11 +7,11 @@ import IMG4 from '../../Asserts/project4.png'
 export const ProjectData =[
     {
       id: 1,
-      image: IMG1,
-      title: 'Web Scrapper application',
-      github: '	https://github.com/gunal15/webScrappingEcommerce-frontEnd',
-      backend:'https://github.com/gunal15/webScrappingEcommerce-backend',
-      demo: '	https://delicate-cascaron-3dc0d1.netlify.app/',
+      image: IMG3,
+      title: 'Ticket booking app',
+      github: 'https://github.com/PAZHANI-KV/movie-ticket-booking-front-end',
+      backend:'https://github.com/PAZHANI-KV/movie-ticket-booking-backend',
+      demo: 'https://graceful-fairy-478d6e.netlify.app/',
       made: [
         'React',
         'Bootstrap',
@@ -22,11 +22,11 @@ export const ProjectData =[
     }, 
     {
       id: 2,
-      image: IMG2,
-      title: 'AWS polymer search app clone',
-      github: 'https://github.com/gunal15/AWS-polymer-search-Frontend',
-      backend:'https://github.com/gunal15/AWS-polymer-search-Backend',
-      demo: 'https://eclectic-haupia-0bab18.netlify.app/search',
+      image: IMG4,
+      title: 'Flight booking',
+      github: 'https://github.com/PAZHANI-KV/flight-booking-frontend-master',
+      backend:'https://github.com/PAZHANI-KV/flight-booking-backend-master',
+      demo: 'https://unique-youtiao-ee2813.netlify.app/',
       made:[
         'React',
         'NodeJS',
@@ -36,10 +36,10 @@ export const ProjectData =[
     },{
       id: 3,
       image: IMG3,
-      title: 'Ticket booking app',
-      github: 'https://github.com/gunal15/movie-booking-frontend',
-      backend:'https://github.com/gunal15/movie-ticket-booking-be',
-      demo: 'https://movie-ticket-book.netlify.app/',
+      title: 'Note making app',
+      github: 'https://github.com/PAZHANI-KV/noteapp-frontend',
+      backend:'https://github.com/PAZHANI-KV/note-making-app-backend',
+      demo: 'https://comforting-mousse-2e673b.netlify.app/',
       made:[
         'React',
         'NodeJS',
@@ -48,11 +48,11 @@ export const ProjectData =[
       ]
     },{
       id: 4,
-      image: IMG4,
-      title: 'Flight booking',
-      github: 'https://github.com/gunal15/flight-fe',
-      backend:'https://github.com/gunal15/flight-booking-backend',
-      demo: 'https://ease-my-trip-app.netlify.app/',
+      image: IMG2,
+      title: 'AWS Polymer search',
+      github: 'https://github.com/PAZHANI-KV/AWS-polymer-Frontend',
+      backend:'https://github.com/PAZHANI-KV/AWS-Polymer-Backend',
+      demo: 'https://meek-torrone-7eb924.netlify.app/search',
       made:[
         'React',
         'NodeJS',
