@@ -7,7 +7,7 @@ import IMG4 from '../../Asserts/project4.png'
 export const ProjectData =[
     {
       id: 1,
-      image: IMG3,
+      image: IMG1,
       title: 'Ticket booking app',
       github: 'https://github.com/PAZHANI-KV/movie-ticket-booking-front-end',
       backend:'https://github.com/PAZHANI-KV/movie-ticket-booking-backend',
@@ -22,7 +22,7 @@ export const ProjectData =[
     }, 
     {
       id: 2,
-      image: IMG4,
+      image: IMG2,
       title: 'Flight booking',
       github: 'https://github.com/PAZHANI-KV/flight-booking-frontend-master',
       backend:'https://github.com/PAZHANI-KV/flight-booking-backend-master',
@@ -48,7 +48,7 @@ export const ProjectData =[
       ]
     },{
       id: 4,
-      image: IMG2,
+      image: IMG4,
       title: 'AWS Polymer search',
       github: 'https://github.com/PAZHANI-KV/AWS-polymer-Frontend',
       backend:'https://github.com/PAZHANI-KV/AWS-Polymer-Backend',
